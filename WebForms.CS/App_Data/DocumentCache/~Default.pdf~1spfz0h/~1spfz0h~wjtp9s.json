@@ -1,0 +1,25 @@
+{
+  "CacheSourceKey": "1spfz0h",
+  "CachePdfKey": "1spfz0h/1spfz0h-1k3kk2s.pdf",
+  "CacheXpzKey": "1spfz0h/1spfz0h-wjtp9s.xpz",
+  "CacheInfoKey": "1spfz0h/1spfz0h-wjtp9s.json",
+  "CacheCopyKey": null,
+  "Document": "~/App_Data/ExampleFiles/Default.pdf",
+  "DocumentHandlerType": null,
+  "DocumentFileName": "Default.pdf",
+  "InputOptions": {
+    "Format": "Pdf",
+    "Password": null
+  },
+  "PdfOutputOptions": {
+    "Watermarks": [],
+    "FastWebViewEnabled": false,
+    "Password": null,
+    "Format": "Pdf"
+  },
+  "XpzOutputOptions": {
+    "Password": "1spfz0h",
+    "HighQualityEnabled": false,
+    "Format": "Xpz"
+  }
+}

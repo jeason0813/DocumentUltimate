@@ -1,0 +1,27 @@
+{
+  "CacheSourceKey": "1k7fbo3",
+  "CachePdfKey": "1k7fbo3/1k7fbo3-qb1x16.pdf",
+  "CacheXpzKey": "1k7fbo3/1k7fbo3-mxhozt.xpz",
+  "CacheInfoKey": "1k7fbo3/1k7fbo3-mxhozt.json",
+  "CacheCopyKey": null,
+  "Document": "F:\\003_项目\\04_GitHub\\DocumentUltimate\\WebForms.CS\\App_Data\\ExampleFiles\\Default.docx",
+  "DocumentHandlerType": null,
+  "DocumentFileName": "Default.docx",
+  "InputOptions": {
+    "$type": "GleamTech.DocumentUltimate.WordProcessingInputOptions, GleamTech.DocumentUltimate",
+    "FieldFileName": null,
+    "Format": "Docx",
+    "Password": null
+  },
+  "PdfOutputOptions": {
+    "Watermarks": [],
+    "FastWebViewEnabled": false,
+    "Password": null,
+    "Format": "Pdf"
+  },
+  "XpzOutputOptions": {
+    "Password": "1k7fbo3",
+    "HighQualityEnabled": false,
+    "Format": "Xpz"
+  }
+}
